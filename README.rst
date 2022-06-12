@@ -94,4 +94,7 @@ updating nested objects
 Running tests
 =============
 
-    $ pytest --doctest_glob="*.rst"
+::
+
+    $ pytest
+
